@@ -1,0 +1,20 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "README.md",
+            "size": 22,
+            "language": "Markdown"
+        },
+        {
+            "name": "wsgi.py",
+            "size": 7,
+            "language": "Python"
+        },
+        {
+            "name": "config.py",
+            "size": 5,
+            "language": "Python"
+        }
+    ]
+}
